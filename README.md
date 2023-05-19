@@ -1,6 +1,8 @@
 # WorldWideNews
 Test Technique
 
+⚠️ Afin de pouvoir tester l'Application, il faut mettre la clé API dans WorldWideNews -> Enum -> NewsAPIKey ⚠️
+
 Temps Consacré sur le Test: Du 12/05/23 au 19/05/23
 
 L'Architecture de l'application est en MVVM avec utilisation de Service pour gérer les ViewModels
