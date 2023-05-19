@@ -9,6 +9,6 @@ import Foundation
 
 enum NewsAPIKey {
     
-    static let apiKey = "a8e5b0f20f8844c99981f28a54768269"
+    static let apiKey = "YOUR_API_KEY_HERE"
     
 }
