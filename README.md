@@ -21,4 +21,8 @@ Je m'en suis aperçu un tard durant le développement de l'application, c'est po
 
 Voici quelques screenshots de l'application, j'y ai apposé un Logo avec un Écran de démarrage pour la rendre plus sympatique
 
+![Simulator Screenshot - iPhone 14 - 2023-05-19 at 16 12 56](https://github.com/Faustharus/WorldWideNews/assets/48592115/fc8eda5d-1da7-46f8-ab76-f773f5f365e8)
+![Simulator Screenshot - iPhone 14 - 2023-05-19 at 16 13 03](https://github.com/Faustharus/WorldWideNews/assets/48592115/6dd6804a-f152-4060-a133-0f98741a916f)
+![Simulator Screenshot - iPhone 14 - 2023-05-19 at 16 13 10](https://github.com/Faustharus/WorldWideNews/assets/48592115/67df313d-6234-4009-a125-8579115c6892)
+![Simulator Screenshot - iPhone 14 - 2023-05-19 at 16 14 10](https://github.com/Faustharus/WorldWideNews/assets/48592115/991e8b7a-5d4b-470c-a0e8-bd40cd418e5c)
 
